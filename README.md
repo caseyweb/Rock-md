@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://www.youtube.com/@Caseyrhodes01"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@caseyrhodes02" /><br>
 <a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E" /><br>
-<a href="https://t.me/254112192119"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://t.me/254112192119"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" </>
 ---
 
 ## DEVELOPED BY 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒🌟
