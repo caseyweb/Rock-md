@@ -1,23 +1,23 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝐃𝐑𝐊_𝐒𝐓_BUG;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙎-𝙏𝞢𝞜" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+VIPPER_BUG;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒🌟" alt="Typing SVG" />
   </a>
 </p>
 
 ![DRK_ST_BUG](https://telegra.ph/file/e6a6d6fe8675c96a3bcb8.jpg)
 <p align="center">
-<a href="https://www.youtube.com/@DRK-TECH"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DRK-TECH" /><br>
-<a href="https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
-<a href="https://t.me/+13472314632"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://www.youtube.com/@Caseyrhodes01"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@caseyrhodes02" /><br>
+<a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E" /><br>
+<a href="https://t.me/254112192119"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 ---
 
-## DEVELOPED BY 𝙎-𝙏𝞢𝞜
+## DEVELOPED BY 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒🌟
 
 ---
 
 ## CREATE YOUR FORK
-<a href="https://github.com/DRK-S-TEN/DRK_ST_BUG1/fork">
-  <img title="DRK_ST_BUG1" src="https://img.shields.io/badge/FORK-DRK_ST_BUG1-red?color=red&style=for-the-badge&logo=stackshare">
+<a href="https://github.com/caseyweb/VIPPER_BUG/fork">
+  <img title="VIPPER_BUG" src="https://img.shields.io/badge/FORK-VIPPER_BUG-red?color=red&style=for-the-badge&logo=stackshare">
 </a>
 
 ---
@@ -61,8 +61,8 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 
 ## Developer 💀
 
-<a href="https://github.com/DRK-S-TEN">
-  <img src="https://github.com/DRK-S-TEN.png" width="200" height="200" alt="DRK-S-TEN"/>
+<a href="https://github.com/VIPPER_BUG">
+  <img src="https://github.com/VIPPER_BUG.png" width="200" height="200" alt="VIPPER_BUG"/>
 </a>
 <p align="center"><strong>DRK-S-TEN</strong></p>
 
@@ -70,8 +70,8 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 
 ## Contributors 🤝
 
-<a href="https://github.com/toge012345">
-  <img src="https://github.com/toge012345.png" width="200" height="200" alt="toge012345"/>
+<a href="https://github.com/caseyweb">
+  <img src="https://github.com/caseyweb.png" width="200" height="200" alt="toge012345"/>
 </a>
 <p align="center"><strong>toge012345</strong
 
