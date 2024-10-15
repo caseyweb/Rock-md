@@ -1,7 +1,7 @@
 {
-  "name": "DRK_ST_BUG",
+  "name": "VIPPER_BUG",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DRK-S-TEN/DRK_ST_BUG1",
+  "repository": "https://github.com/caseyweb/VIPPER-BUG",
   "logo": "https://telegra.ph/file/e6a6d6fe8675c96a3bcb8.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
