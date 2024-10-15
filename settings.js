@@ -6,7 +6,7 @@ global.ownernomer = "254112192119"
 global.ownername = "🌹⃟⃢👑 𝐂𝐀𝐒𝐄𝐘༒𝐑𝐇𝐎𝐃𝐄𝐒🌹⃟⃢👑"
 global.ytname = "caseyrhodes01"
 global.socialm = "GitHub: CASEYRHODES"
-global.location = "America, Haiti, Port-au-Prince"
+global.location = "Nairobi,kenya"
 
 global.ownernumber = '254112192119'  //creator number
 global.ownername = 'CASEYRHODES🌟' //owner name
