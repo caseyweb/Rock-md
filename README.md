@@ -64,16 +64,16 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 <a href="https://github.com/VIPPER_BUG">
   <img src="https://github.com/VIPPER_BUG.png" width="200" height="200" alt="VIPPER_BUG"/>
 </a>
-<p align="center"><strong>DRK-S-TEN</strong></p>
+<p align="center"><strong>VIPPER_BUG</strong></p>
 
 ---
 
 ## Contributors 🤝
 
 <a href="https://github.com/caseyweb">
-  <img src="https://github.com/caseyweb.png" width="200" height="200" alt="toge012345"/>
+  <img src="https://github.com/caseyweb.png" width="200" height="200" alt="caseyrhodes"/>
 </a>
-<p align="center"><strong>toge012345</strong
+<p align="center"><strong>CASEYRHODES</strong
 
 ---
 
